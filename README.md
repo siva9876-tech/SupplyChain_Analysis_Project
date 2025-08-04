@@ -6,7 +6,8 @@
 
 This project automates supply chain data analysis between manufacturing companies in India and the USA. When the Indian manager needs US data, the system automatically collects CSV files from Gmail, loads them into a Supabase PostgreSQL database, and enables analysis through Quadratic AI Spreadsheets for actionable insights.
 
-https://tinyurl.com/4zutjkmw - [WorkFlow Diagram]
+ [WorkFlow Diagram]<img width="1887" height="656" alt="work flow" src="https://github.com/user-attachments/assets/6b203473-cfaf-496e-bfa2-975623bb7bf2" />
+
 
 ## 📑 Table of Contents
 
